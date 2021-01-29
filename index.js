@@ -216,7 +216,6 @@ class Airplane {
    debugsCode(student, subject){
      return `${this.name} debugs ${student.name}'s code on ${subject}`;
    }
-
      
  }
   /*
